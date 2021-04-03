@@ -1,0 +1,17 @@
+.header{
+    height: 50px;
+    width: 100%;
+    color: white;
+    background-color: black;
+    line-height: 50px;
+
+}
+
+.nav-bar{
+    display: flex;
+    width: 200px;
+    float: right;
+    align-items: center;
+    justify-content: space-around;
+    padding: 0px;
+}

@@ -1,0 +1,23 @@
+.app-wrapper{
+    height: 100%;
+}
+
+.offline-wrapper{
+    height: 100%;
+    background-color: rgb(32, 32, 32);
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    
+}
+
+.offline-wrapper>ul{
+    list-style: none;
+    padding: 0px;
+}
+
+.offline-wrapper>ul>li:nth-child(3){
+    color: rgb(205, 205, 205);
+}
