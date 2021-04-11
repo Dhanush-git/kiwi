@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Dhanush-git/kiwi/static/css/main.23f507f4.chunk.css",
+    "main.js": "/Dhanush-git/kiwi/static/js/main.fa12db9f.chunk.js",
+    "main.js.map": "/Dhanush-git/kiwi/static/js/main.fa12db9f.chunk.js.map",
+    "runtime-main.js": "/Dhanush-git/kiwi/static/js/runtime-main.a1e1ca0d.js",
+    "runtime-main.js.map": "/Dhanush-git/kiwi/static/js/runtime-main.a1e1ca0d.js.map",
+    "static/js/2.fe37b618.chunk.js": "/Dhanush-git/kiwi/static/js/2.fe37b618.chunk.js",
+    "static/js/2.fe37b618.chunk.js.map": "/Dhanush-git/kiwi/static/js/2.fe37b618.chunk.js.map",
+    "static/js/3.e3b14e7a.chunk.js": "/Dhanush-git/kiwi/static/js/3.e3b14e7a.chunk.js",
+    "static/js/3.e3b14e7a.chunk.js.map": "/Dhanush-git/kiwi/static/js/3.e3b14e7a.chunk.js.map",
+    "index.html": "/Dhanush-git/kiwi/index.html",
+    "static/css/main.23f507f4.chunk.css.map": "/Dhanush-git/kiwi/static/css/main.23f507f4.chunk.css.map",
+    "static/js/2.fe37b618.chunk.js.LICENSE.txt": "/Dhanush-git/kiwi/static/js/2.fe37b618.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a1e1ca0d.js",
+    "static/js/2.fe37b618.chunk.js",
+    "static/css/main.23f507f4.chunk.css",
+    "static/js/main.fa12db9f.chunk.js"
+  ]
+}
