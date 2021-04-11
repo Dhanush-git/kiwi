@@ -1,22 +1,22 @@
 {
   "files": {
-    "main.css": "/Dhanush-git/kiwi/static/css/main.23f507f4.chunk.css",
-    "main.js": "/Dhanush-git/kiwi/static/js/main.69d9a229.chunk.js",
-    "main.js.map": "/Dhanush-git/kiwi/static/js/main.69d9a229.chunk.js.map",
-    "runtime-main.js": "/Dhanush-git/kiwi/static/js/runtime-main.a1e1ca0d.js",
-    "runtime-main.js.map": "/Dhanush-git/kiwi/static/js/runtime-main.a1e1ca0d.js.map",
-    "static/js/2.fe37b618.chunk.js": "/Dhanush-git/kiwi/static/js/2.fe37b618.chunk.js",
-    "static/js/2.fe37b618.chunk.js.map": "/Dhanush-git/kiwi/static/js/2.fe37b618.chunk.js.map",
-    "static/js/3.e3b14e7a.chunk.js": "/Dhanush-git/kiwi/static/js/3.e3b14e7a.chunk.js",
-    "static/js/3.e3b14e7a.chunk.js.map": "/Dhanush-git/kiwi/static/js/3.e3b14e7a.chunk.js.map",
-    "index.html": "/Dhanush-git/kiwi/index.html",
-    "static/css/main.23f507f4.chunk.css.map": "/Dhanush-git/kiwi/static/css/main.23f507f4.chunk.css.map",
-    "static/js/2.fe37b618.chunk.js.LICENSE.txt": "/Dhanush-git/kiwi/static/js/2.fe37b618.chunk.js.LICENSE.txt"
+    "main.css": "/kiwi/static/css/main.23f507f4.chunk.css",
+    "main.js": "/kiwi/static/js/main.1cafc89c.chunk.js",
+    "main.js.map": "/kiwi/static/js/main.1cafc89c.chunk.js.map",
+    "runtime-main.js": "/kiwi/static/js/runtime-main.da16d392.js",
+    "runtime-main.js.map": "/kiwi/static/js/runtime-main.da16d392.js.map",
+    "static/js/2.fe37b618.chunk.js": "/kiwi/static/js/2.fe37b618.chunk.js",
+    "static/js/2.fe37b618.chunk.js.map": "/kiwi/static/js/2.fe37b618.chunk.js.map",
+    "static/js/3.e3b14e7a.chunk.js": "/kiwi/static/js/3.e3b14e7a.chunk.js",
+    "static/js/3.e3b14e7a.chunk.js.map": "/kiwi/static/js/3.e3b14e7a.chunk.js.map",
+    "index.html": "/kiwi/index.html",
+    "static/css/main.23f507f4.chunk.css.map": "/kiwi/static/css/main.23f507f4.chunk.css.map",
+    "static/js/2.fe37b618.chunk.js.LICENSE.txt": "/kiwi/static/js/2.fe37b618.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.a1e1ca0d.js",
+    "static/js/runtime-main.da16d392.js",
     "static/js/2.fe37b618.chunk.js",
     "static/css/main.23f507f4.chunk.css",
-    "static/js/main.69d9a229.chunk.js"
+    "static/js/main.1cafc89c.chunk.js"
   ]
 }
